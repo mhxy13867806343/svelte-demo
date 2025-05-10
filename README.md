@@ -1,5 +1,9 @@
 # 科技企业官网 - Svelte 响应式企业网站模板
 
+## 在线预览
+
+访问地址：[https://mhxy13867806343.github.io/svelte-demo/](https://mhxy13867806343.github.io/svelte-demo/)
+
 ![科技企业官网](https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 这是一个基于 Svelte 和 Vite 构建的现代化响应式企业官网模板，适合科技公司、创业团队和各类企业使用。该模板采用了现代化的设计风格，完全响应式布局，确保在各种设备上都能提供出色的用户体验。
